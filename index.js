@@ -1,4 +1,4 @@
-// Load in all packages and configuration files
+// Load in all packages and configuration files 
 const Discord = require("discord.js");
 const Enmap = require("enmap");
 const admin = require("firebase-admin");
